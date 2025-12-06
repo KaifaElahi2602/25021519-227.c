@@ -1,2 +1,2 @@
-# 25021519-227.c
-This repository contain my c language code  practice
+# 25021519-227.cpp
+This repository contain my cpp language code  practice
